@@ -1,0 +1,18 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+
+# User-specific settings
+xcuserdata/
+
+# Workspaces
+project.xcworkspace/contents.xcworkspacedata
+project.xcworkspace/xcuserdata/
+
+
+
+
+
+

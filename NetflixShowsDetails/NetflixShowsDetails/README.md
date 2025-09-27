@@ -20,11 +20,8 @@ The app allows you to **search by Video ID**, fetch metadata, and view details a
 - **URLSession** for networking  
 - **Async/Await** for concurrency  
 
----
+## 🎥 Demo Video
+<video src="https://github.com/user-attachments/assets/5f6da448-7ff4-46da-b844-5581b549dbe5" width="300" height="480"></video>
 
-## 📸 Demo
-[Demo Video](https://drive.google.com/drive/folders/1w5AlOVS0gfJdHcbgdpm2-3JeIvGHgW0-?usp=drive_link)
-
-Click the image above to view the demo video.
 
 

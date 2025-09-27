@@ -111,8 +111,6 @@ struct ContentView: View {
        }
 }
 
-// 70143830
-
 #Preview {
     ContentView()
 }

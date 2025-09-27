@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		E674FCF72E872D8C0011AC76 /* NetflixShowsDetails.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetflixShowsDetails.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E674FCF72E872D8C0011AC76 /* NetflixShowsDetails.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = NetflixShowsDetails.app; path = "/Users/mallikarjunople/Documents/Sandbox/github/NetflixShowsDetails/build/Debug-iphoneos/NetflixShowsDetails.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		E674FCF92E872D8C0011AC76 /* NetflixShowsDetails */ = {
+		E674FD552E87C9B10011AC76 /* NetflixShowsDetails */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = NetflixShowsDetails;
 			sourceTree = "<group>";
@@ -32,17 +32,8 @@
 		E674FCEE2E872D8C0011AC76 = {
 			isa = PBXGroup;
 			children = (
-				E674FCF92E872D8C0011AC76 /* NetflixShowsDetails */,
-				E674FCF82E872D8C0011AC76 /* Products */,
+				E674FD552E87C9B10011AC76 /* NetflixShowsDetails */,
 			);
-			sourceTree = "<group>";
-		};
-		E674FCF82E872D8C0011AC76 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				E674FCF72E872D8C0011AC76 /* NetflixShowsDetails.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -61,7 +52,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				E674FCF92E872D8C0011AC76 /* NetflixShowsDetails */,
+				E674FD552E87C9B10011AC76 /* NetflixShowsDetails */,
 			);
 			name = NetflixShowsDetails;
 			packageProductDependencies = (
@@ -95,7 +86,7 @@
 			mainGroup = E674FCEE2E872D8C0011AC76;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = E674FCF82E872D8C0011AC76 /* Products */;
+			productRefGroup = E674FCEE2E872D8C0011AC76;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
